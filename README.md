@@ -65,3 +65,9 @@ Relancez simplement les deux commandes `curl` ci-dessus.
 - Chaque API appelée reste la propriété de son auteur et est soumise à ses
   propres conditions d'utilisation (limites de requêtes, mention de la
   source, etc.).
+
+## Licence
+
+Les skills de ce dépôt sont publiées sous [licence MIT](LICENSE) : vous pouvez
+les copier, les modifier et les réutiliser librement, à condition de conserver
+la mention de copyright et le fichier de licence.
