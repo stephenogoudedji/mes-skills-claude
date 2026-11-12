@@ -53,3 +53,15 @@ Vous devez voir le taux de change euro → dollar.
 ### Mise à jour
 
 Relancez simplement les deux commandes `curl` ci-dessus.
+
+## Sources et crédits
+
+- La skill `public-apis` s'appuie sur la liste communautaire
+  [public-apis](https://github.com/public-apis/public-apis), publiée sous
+  licence MIT par ses contributeurs. Cette liste n'est pas recopiée dans ce
+  dépôt : le script la télécharge depuis son dépôt d'origine au moment de
+  l'utilisation.
+- Ce dépôt n'est pas affilié au projet public-apis ni aux services cités.
+- Chaque API appelée reste la propriété de son auteur et est soumise à ses
+  propres conditions d'utilisation (limites de requêtes, mention de la
+  source, etc.).
